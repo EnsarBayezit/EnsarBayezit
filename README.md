@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Ensar 👋</h1>
 
 <p align="center">
-  [Kısa bir cümle: ne okuyorsun / ne geliştiriyorsun, örn. "Backend geliştirmeye ve temiz kod yazmaya odaklanan yazılım geliştiriciyim."]
+  [bben Fırat üniversitesi Bilgisayar Mühendisliği Öğrencisiyim /  Backend geliştirmeye ve temiz kod yazmaya odaklanan yazılım geliştiriciyim.]
 </p>
 
 <p align="center">
