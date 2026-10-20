@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Ensar 👋</h1>
 
 <p align="center">
-  [bben Fırat üniversitesi Bilgisayar Mühendisliği Öğrencisiyim /  Backend geliştirmeye ve temiz kod yazmaya odaklanan yazılım geliştiriciyim.]
+  Ben Fırat üniversitesi Bilgisayar Mühendisliği Öğrencisiyim /  Kendimi geliştirmeye ve temiz kod yazmaya odaklanan yazılım geliştiriciyim.
 </p>
 
 <p align="center">
