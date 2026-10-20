@@ -15,8 +15,8 @@
 ---
 
 ## 🔭 Şu an
-- 🔨 Üzerinde çalıştığım: Algoritma Ve Veri Analizi
-- 🌱 Öğrendiğim: Gömülü Sistemler Ve Yapay Zeka
+- 🔨 Üzerinde çalıştığım konular: Gömülü Sistemler Ve Yapay Zeka
+- 🌱 Öğrendiğim Alanlar: Algoritma Ve Veri Analizi
 
 
 ## 💻 Teknolojiler
