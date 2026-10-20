@@ -9,13 +9,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/ensar-bayezit/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ensarbayezit33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 🔭 Şu an
 - 🔨 Üzerinde çalıştığım: Algoritma Ve Veri Analizi
 - 🌱 Öğrendiğim: Gömülü Sistemler Ve Yapay Zeka
-- 📫 Bana ulaşmak için: ensarbayezit33@gmail.com
+
 
 ## 💻 Teknolojiler
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
