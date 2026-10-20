@@ -4,12 +4,12 @@
   Ben Fırat üniversitesi Bilgisayar Mühendisliği Öğrencisiyim /  Kendimi geliştirmeye ve temiz kod yazmaya odaklanan bir geliştiriciyim.
 </p>
 
-<p align="center">
+p align="center">
   <a href="https://www.linkedin.com/in/ensar-bayezit/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ensarbayezit33@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" />
   </a>
 </p>
 
