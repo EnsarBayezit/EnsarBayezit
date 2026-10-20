@@ -13,9 +13,9 @@
 ---
 
 ## 🔭 Şu an
-- 🔨 Üzerinde çalıştığım: [proje adı + kısa açıklama]
-- 🌱 Öğrendiğim: [teknoloji/konu]
-- 📫 Bana ulaşmak için: [e-posta veya LinkedIn]
+- 🔨 Üzerinde çalıştığım: Algoritma Ve Veri Analizi
+- 🌱 Öğrendiğim: Gömülü Sistemler Ve Yapay Zeka
+- 📫 Bana ulaşmak için: ensarbayezit33@gmail.com
 
 ## 💻 Teknolojiler
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,8 +26,7 @@
 ## 📌 Öne Çıkan Projeler
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [repo-adı](https://github.com/EnsarBayezit/repo-adı) | Ne işe yarıyor, tek cümle | Java |
-| [repo-adı](https://github.com/EnsarBayezit/repo-adı) | Ne işe yarıyor, tek cümle | Python |
+| [Mission-Control-Event-Recorder](https://github.com/EnsarBayezit/Mission-Control-Event-Recorder) |otonom araçlar için geliştirilmiş yüksek performanslı ir Yer Kontrol İstasyonu| Processing |
 
 ## 📊 GitHub İstatistikleri
 <p align="center">
