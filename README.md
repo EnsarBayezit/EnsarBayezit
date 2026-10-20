@@ -21,12 +21,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=microchip&logoColor=white)
 <!-- Ekle: Git, SQL, Docker, Spring Boot, .NET vb. -->
 
 ## 📌 Öne Çıkan Projeler
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [Mission-Control-Event-Recorder](https://github.com/EnsarBayezit/Mission-Control-Event-Recorder) |otonom araçlar için geliştirilmiş yüksek performanslı,modern bir Yer Kontrol İstasyonu| Processing |
+| [Mission-Control-Event-Recorder](https://github.com/EnsarBayezit/Mission-Control-Event-Recorder) |Otonom araçlar için geliştirilmiş yüksek performanslı,modern bir Yer Kontrol İstasyonu ve telemetri analiz platformudur.| Processing |
 
 ## 📊 GitHub İstatistikleri
 <p align="center">
