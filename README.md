@@ -1,22 +1,39 @@
-# ENSAR BAYEZİT
+<h1 align="center">Merhaba, ben Ensar 👋</h1>
 
-## 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ensar-bayezit/?isSelfProfile=true) 
+<p align="center">
+  [Kısa bir cümle: ne okuyorsun / ne geliştiriyorsun, örn. "Backend geliştirmeye ve temiz kod yazmaya odaklanan yazılım geliştiriciyim."]
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=EnsarBayezit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=EnsarBayezit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=EnsarBayezit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EnsarBayezit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EnsarBayezit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ensar-bayezit/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=EnsarBayezit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 Şu an
+- 🔨 Üzerinde çalıştığım: [proje adı + kısa açıklama]
+- 🌱 Öğrendiğim: [teknoloji/konu]
+- 📫 Bana ulaşmak için: [e-posta veya LinkedIn]
+
+## 💻 Teknolojiler
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- Ekle: Git, SQL, Docker, Spring Boot, .NET vb. -->
+
+## 📌 Öne Çıkan Projeler
+| Proje | Açıklama | Teknolojiler |
+|-------|----------|--------------|
+| [repo-adı](https://github.com/EnsarBayezit/repo-adı) | Ne işe yarıyor, tek cümle | Java |
+| [repo-adı](https://github.com/EnsarBayezit/repo-adı) | Ne işe yarıyor, tek cümle | Python |
+
+## 📊 GitHub İstatistikleri
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=EnsarBayezit&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=EnsarBayezit&theme=dark&hide_border=true&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EnsarBayezit&theme=dark&hide_border=true" />
+</p>
