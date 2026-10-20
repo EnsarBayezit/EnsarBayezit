@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Ensar 👋</h1>
 
 <p align="center">
-  Ben Fırat üniversitesi Bilgisayar Mühendisliği Öğrencisiyim /  Kendimi geliştirmeye ve temiz kod yazmaya odaklanan yazılım geliştiriciyim.
+  Ben Fırat üniversitesi Bilgisayar Mühendisliği Öğrencisiyim /  Kendimi geliştirmeye ve temiz kod yazmaya odaklanan bir geliştiriciyim.
 </p>
 
 <p align="center">
