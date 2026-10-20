@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+ENSAR BAYEZİT<br>Bilgisayar Mühendisliği Öğrencisi (3. Sınıf)<br>Konum: Elazığ, Türkiye | E-posta: ensarbayezit33@gmail.com | LinkedIn: linkedin.com/in/ensar-bayezit<br>ÖZET (SUMMARY)<br>Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Bilgisayarlı Görü (Computer Vision), Görsel-Dil Modelleri (VLM), Derin Öğrenme (Deep Learning), Çok Kaynaklı Sensör Füzyonu ve Nesne Yönelimli Yazılım Mimarileri (OOP) üzerine çalışıyorum. TÜBİTAK 2209-A kapsamında desteklenen yapay zeka tabanlı orman yangını erken tespit projesinde araştırmacı olarak görev almakta; aynı zamanda savunma sanayii staj deneyimim doğrultusunda Java ve Processing kullanarak gerçek zamanlı telemetri görselleştirme ve komuta kontrol (Mission Control) arayüzleri geliştirmekteyim.<br>EĞİTİM (EDUCATION)<br>Fırat Üniversitesi, Mühendislik Fakültesi — Bilgisayar Mühendisliği (Lisans) | 2023 – Devam Ediyor (3. Sınıf)<br>•	İlgili Dersler ve Alanlar: Nesne Yönelimli Programlama (OOP), Veri Yapıları ve Algoritmalar, Bilgisayarlı Görü, Yapay Zeka, Sayısal Tasarım (VHDL), Bilgisayar Ağları.<br>İŞ VE STAJ DENEYİMİ (EXPERIENCE)<br>Yazılım Mühendisliği Stajyeri — Kayacı Savunma Sanayi A.Ş. | Ağustos 2026 – Eylül 2026 (20 İş Günü)<br>•	İnsansız sistemler ve saha araçları için gerçek zamanlı veri akışı sağlayan masaüstü Mission Control (Görev Kontrol) Paneli yazılımının tasarım ve geliştirme süreçlerinde görev alındı.<br>•	Java ve Processing kullanılarak nesne yönelimli (OOP) ve modüler bir yazılım mimarisi kurgulandı; UDP protokolü (UDPReceiver) üzerinden gelen anlık telemetri paketlerinin kesintisiz okunması ve ayrıştırılması sağlandı.<br>•	Dinamik harita takibi, hız, batarya durumu ve sensör verilerini görselleştiren gösterge panelleri (dashboard cards) ile olay kayıt (event recorder) modülleri geliştirildi.<br>ARAŞTIRMA VE TEKNİK PROJELER (PROJECTS)<br>Araştırmacı / Proje Ekibi Üyesi — TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri | 2025 – Devam Ediyor<br>Proje Başlığı: FireVision-AI: Çok Kaynaklı Görüntü Füzyonu ve VLM Tabanlı Orman Yangını Algılama Sistemi (Danışman: Zeynep Karaca)<br>•	İHA (Drone), uydu (VIIRS, Sentinel-2), sabit RGB kameralar ve yer sensörlerinden gelen çok-modlu verileri eşzamanlı işleyen 4 katmanlı erken uyarı ve karar destek mimarisinin sistem analizinde görev alındı.<br>•	Veri Toplama ve Ön İşleme: DetectiumFire, RGBT-3M ve çok kaynaklı veri kümelerinin etiketlenmesi, zaman-konum senkronizasyonu ve veri artırma (data augmentation: mozaik, mixup, flip) süreçleri yürütüldü.<br>•	Derin Öğrenme ve VLM Doğrulaması: Gerçek zamanlı duman ve alev tespiti için YOLOv8n ve YOLOv10 modellerinin eğitimi ve optimizasyonu (pruning, K-means++ anchor optimizasyonu) gerçekleştirildi; yanlış alarmları filtrelemek amacıyla CLIP, FireCLIP ve ForestFireVLM tabanlı Görsel-Dil Modelleri (VLM) entegrasyonu üzerinde çalışıldı.<br>•	Gömülü Sistem ve Performans Analizi: PyTorch ve OpenCV tabanlı algoritmaların uç birimlerde (NVIDIA Jetson, Raspberry Pi 5) gerçek zamanlı çalışabilirliği, F1-Skoru, Precision, Recall, mAP ve FPS metrikleriyle test edilerek raporlandı.<br>Sayısal Mantık ve Donanım Tasarımı Uygulamaları — Akademik Çalışmalar | 2025<br>•	VHDL kullanılarak ikili toplayıcılar (Binary ve BCD Adders) ve çeşitli sayısal mantık devrelerinin donanım tanımlama kodları ile testbench simülasyonları yazıldı.<br>•	Proteus ISIS ortamında flip-flop, decoder, kaydırmalı kaydediciler (74LS165) ve analog-dijital dönüştürücüler (ADC0808) içeren devre tasarımları ve simülasyonları gerçekleştirildi.<br>TEKNİK YETKİNLİKLER (SKILLS)<br>•	Programlama Dilleri: Python, Java, Processing, C, VHDL<br>•	Yapay Zeka ve Görüntü İşleme: PyTorch, OpenCV, YOLOv8, YOLOv10, Görsel-Dil Modelleri (VLM, CLIP, FireCLIP, LLaVA, PaliGemma), HuggingFace Transformers, Pandas, Matplotlib, Veri Ön İşleme (Data Preprocessing), Sensör Füzyonu<br>•	Yazılım, Ağ ve Donanım Araçları: Visual Studio Code, Git, Google Colab, Anaconda, Proteus ISIS, UDP Ağ Programlama, Gömülü Sistemler (Raspberry Pi 5, NVIDIA Jetson), Nesne Yönelimli Programlama (OOP)<br>SERTİFİKALAR VE EĞİTİMLER (CERTIFICATIONS)<br>•	Bilgisayar Ağları v1.0 — Huawei ICT Academy (SDN Prensipleri ve Trafik Yönetimi)<br>•	Siber Güvenlik Temelleri Eğitimi — Cisco Networking Academy ve Akbank Gençlik Akademisi (Ocak 2026)<br>•	Görüntü İşlemeye Giriş Atölyesi — T3 Vakfı, Eyüp Deneyap Eğitim Merkezi (Mart 2026)<br>•	FıraTech Teknoloji Zirvesi Katılım Belgesi — Fırat Üniversitesi (Aralık 2025)<br>•	DevFest 2025 Katılım Sertifikası — Google Developer Groups (GDG)<br>•	Arayüz ve Görsel Tasarım / Canva Eğitimi — Etkin Kampüs (Temmuz 2025)<br>GÖNÜLLÜLÜK VE ETKİNLİKLER (VOLUNTEERING & ACTIVITIES)<br>•	TEKNOFEST 2026 Şanlıurfa Gönüllüsü — Türkiye Teknoloji Takımı (T3 Vakfı)<br>•	T3 Vakfı Elazığ Gönüllüsü — Türkiye Teknoloji Takımı Vakfı (Aralık 2025 – Devam Ediyor)<br>•	HSD Fırat Basement Night Hackathonu — Huawei Student Developers Katılımcısı (Şubat 2026)<br>•	Insurtech CX Ideathon ve Quiz Night — AgeSA ve Sabancı Gençlik Seferberliği Katılımcısı (Nisan 2026)<br>
 
-<!--
-**EnsarBayezit/EnsarBayezit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ensar-bayezit) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=EnsarBayezit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=EnsarBayezit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=EnsarBayezit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EnsarBayezit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EnsarBayezit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=EnsarBayezit&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
