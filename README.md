@@ -26,7 +26,7 @@
 ## 📌 Öne Çıkan Projeler
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [Mission-Control-Event-Recorder](https://github.com/EnsarBayezit/Mission-Control-Event-Recorder) |otonom araçlar için geliştirilmiş yüksek performanslı ir Yer Kontrol İstasyonu| Processing |
+| [Mission-Control-Event-Recorder](https://github.com/EnsarBayezit/Mission-Control-Event-Recorder) |otonom araçlar için geliştirilmiş yüksek performanslı,modern bir Yer Kontrol İstasyonu| Processing |
 
 ## 📊 GitHub İstatistikleri
 <p align="center">
