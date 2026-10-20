@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
----
 
 ## 🔭 Şu an
 - 🔨 Üzerinde çalıştığım konular: Gömülü Sistemler Ve Yapay Zeka
